@@ -1,7 +1,7 @@
 /* 
-Í¨¹ı×Ö·û´®º¯Êı strOrig.lastIndexOf(Stringname) À´²éÕÒ
-×Ó×Ö·û´® Stringname ÔÚ strOrig ³öÏÖµÄÎ»ÖÃ£º
- */
+é€šè¿‡å­—ç¬¦ä¸²å‡½æ•° strOrig.lastIndexOf(Stringname) æ¥æŸ¥æ‰¾
+å­å­—ç¬¦ä¸² Stringname åœ¨ strOrig å‡ºç°çš„ä½ç½®ï¼š
+*/
 public class SearchLastString{
 	public static void main(String[] args){
 		String strOrig = "Hello world ,Hello Reader";
