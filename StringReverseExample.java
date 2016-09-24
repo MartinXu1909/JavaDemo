@@ -1,5 +1,5 @@
 /* 
- Ê¹ÓÃ Java µÄ·´×ªº¯Êı reverse() ½«×Ö·û´®·´×ª
+ ä½¿ç”¨ Java çš„åè½¬å‡½æ•° reverse() å°†å­—ç¬¦ä¸²åè½¬
 */
 
 import java.util.*;
@@ -15,4 +15,4 @@ public class StringReverseExample{
 /* 
 String before reverse: abcdefg
 String after reverse: gfedcba
- */
+*/

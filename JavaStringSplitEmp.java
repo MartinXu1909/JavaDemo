@@ -1,5 +1,5 @@
 /* 
- Ê¹ÓÃÁË split(string) ·½·¨Í¨¹ýÖ¸¶¨·Ö¸ô·û½«×Ö·û´®·Ö¸îÎªÊý×é
+ ä½¿ç”¨äº† split(string) æ–¹æ³•é€šè¿‡æŒ‡å®šåˆ†éš”ç¬¦å°†å­—ç¬¦ä¸²åˆ†å‰²ä¸ºæ•°ç»„
 */
 
 public class JavaStringSplitEmp{
@@ -7,19 +7,19 @@ public class JavaStringSplitEmp{
 		
 		String str = "www-runnoob-com";
 		String[] temp;
-		String delimeter = "-"; //Ö¸¶¨·Ö¸î×Ö·û
-		temp = str.split(delimeter); //·Ö¸î×Ö·û´®
-		// ÆÕÍ¨ for Ñ­»·
+		String delimeter = "-"; //æŒ‡å®šåˆ†å‰²å­—ç¬¦
+		temp = str.split(delimeter); //åˆ†å‰²å­—ç¬¦ä¸²
+		// æ™®é€š for å¾ªçŽ¯
 		for(int i = 0; i < temp.length; i++){
 			System.out.println(temp[i]);
 			System.out.println("");
 		}
 		
-		System.out.println("------java for eachÑ­»·Êä³öµÄ·½·¨-------");
+		System.out.println("------java for eachå¾ªçŽ¯è¾“å‡ºçš„æ–¹æ³•-------");
 		String str1 = "www.runnoob.com";
 		String[] temp1;
-		String delimeter1 = "\\."; //Ö¸¶¨·Ö¸î×Ö·û´®£¬ .ºÅÐèÒª×ªÒå
-		temp1 = str1.split(delimeter1); //·Ö¸î×Ö·û´®
+		String delimeter1 = "\\."; //æŒ‡å®šåˆ†å‰²å­—ç¬¦ä¸²ï¼Œ .å·éœ€è¦è½¬ä¹‰
+		temp1 = str1.split(delimeter1); //åˆ†å‰²å­—ç¬¦ä¸²
 		for(String x : temp1){
 			System.out.println(x);
 			System.out.println("");
@@ -33,10 +33,10 @@ runnoob
 
 com
 
-------java for eachÑ­»·Êä³öµÄ·½·¨-------
+------java for eachå¾ªçŽ¯è¾“å‡ºçš„æ–¹æ³•-------
 www
 
 runnoob
 
 com
- */
+*/

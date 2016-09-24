@@ -1,5 +1,5 @@
 /* 
- Ê¹ÓÃÁË String toUpperCase() ·½·¨½«×Ö·û´®´ÓĞ¡Ğ´×ªÎª´óĞ´
+ ä½¿ç”¨äº† String toUpperCase() æ–¹æ³•å°†å­—ç¬¦ä¸²ä»å°å†™è½¬ä¸ºå¤§å†™
 */
 
 public class StringToUpperCaseEmp{
@@ -13,4 +13,4 @@ public class StringToUpperCaseEmp{
 /* 
 Original String: string abc touppercase
 String changed to upper case: STRING ABC TOUPPERCASE
- */
+*/

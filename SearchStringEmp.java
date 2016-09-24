@@ -1,6 +1,6 @@
 /* 
- Ê¹ÓÃÁË String ÀàµÄ indexOf() ·½·¨ÔÚ×Ö·û´®ÖÐ²éÕÒ×Ó×Ö·û´®³öÏÖµÄÎ»ÖÃ£¬
- Èç¹ý´æÔÚ·µ»Ø×Ö·û´®³öÏÖµÄÎ»ÖÃ£¨µÚÒ»Î»Îª0£©£¬Èç¹û²»´æÔÚ·µ»Ø -1£º
+ ä½¿ç”¨äº† String ç±»çš„ indexOf() æ–¹æ³•åœ¨å­—ç¬¦ä¸²ä¸­æŸ¥æ‰¾å­å­—ç¬¦ä¸²å‡ºçŽ°çš„ä½ç½®ï¼Œ
+ å¦‚è¿‡å­˜åœ¨è¿”å›žå­—ç¬¦ä¸²å‡ºçŽ°çš„ä½ç½®ï¼ˆç¬¬ä¸€ä½ä¸º0ï¼‰ï¼Œå¦‚æžœä¸å­˜åœ¨è¿”å›ž -1ï¼š
 */
 
 public class SearchStringEmp{
@@ -16,4 +16,4 @@ public class SearchStringEmp{
 }
 /* 
 Found Hello at index 0
- */
+*/
