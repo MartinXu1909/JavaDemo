@@ -1,6 +1,6 @@
 /* 
- ÈçºÎÊ¹ÓÃjavaÌæ»»×Ö·û´®ÖĞµÄ×Ö·ûÄØ£¿
- Ê¹ÓÃ java String ÀàµÄ replace ·½·¨À´Ìæ»»×Ö·û´®ÖĞµÄ×Ö·û
+ å¦‚ä½•ä½¿ç”¨javaæ›¿æ¢å­—ç¬¦ä¸²ä¸­çš„å­—ç¬¦å‘¢ï¼Ÿ
+ ä½¿ç”¨ java String ç±»çš„ replace æ–¹æ³•æ¥æ›¿æ¢å­—ç¬¦ä¸²ä¸­çš„å­—ç¬¦
 */
 
 public class StringReplacrEmp{
@@ -15,4 +15,4 @@ public class StringReplacrEmp{
 Wello World
 Wallo World
 Hallo World
- */
+*/
