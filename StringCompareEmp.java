@@ -1,7 +1,7 @@
 /* 
-ÒÔÏÂÊµÀıÖĞÎÒÃÇÍ¨¹ı×Ö·û´®º¯Êı compareTo (string) £¬compareToIgnoreCase(String) 
-¼° compareTo(object string) À´±È½ÏÁ½¸ö×Ö·û´®£¬²¢·µ»Ø×Ö·û´®ÖĞµÚÒ»¸ö×ÖÄ¸ASCIIµÄ²îÖµ¡£
- */
+ä»¥ä¸‹å®ä¾‹ä¸­æˆ‘ä»¬é€šè¿‡å­—ç¬¦ä¸²å‡½æ•° compareTo (string) ï¼ŒcompareToIgnoreCase(String) 
+åŠ compareTo(object string) æ¥æ¯”è¾ƒä¸¤ä¸ªå­—ç¬¦ä¸²ï¼Œå¹¶è¿”å›å­—ç¬¦ä¸²ä¸­ç¬¬ä¸€ä¸ªå­—æ¯ASCIIçš„å·®å€¼ã€‚
+*/
 public class StringCompareEmp{
 	public static void main(String[] args){
 		String str = "Hello World";
@@ -9,7 +9,7 @@ public class StringCompareEmp{
 		Object objStr = str;
 		
 		System.out.println( str.compareTo(anotherString) );
-		//ºöÂÔ´óĞ¡Ğ´
+		//å¿½ç•¥å¤§å°å†™
 		System.out.println( str.compareToIgnoreCase(anotherString) );
 		System.out.println( str.compareTo(objStr.toString()) );
 	}
