@@ -1,6 +1,5 @@
 /* 
- 
- 
+ 以下实例演示了使用 write() 方法向文件写入内容
 */
 import java.io.*;
 
@@ -17,3 +16,6 @@ public class IOTest{
 		}
 	}
 }
+/* 
+以下实例演示了使用 write() 方法向文件写入内容
+ */
