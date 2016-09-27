@@ -1,6 +1,5 @@
 /* 
- 
- 
+ 使用 File 类的 file.isDirectory(),file.list() 和 file.getPath() 方法来判断目录是否为空
 */
 import java.io.File;
 
