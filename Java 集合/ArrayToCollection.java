@@ -1,6 +1,5 @@
 /* 
- 
- 
+ 使用 Java Util 类的 Arrays.asList(name) 方法将数组转换为集合
 */
 import java.util.*;
 import java.io.*;
@@ -21,6 +20,5 @@ public class ArrayToCollection{
 	}
 }
 /* 
-
 0 1 2 3 4
  */
